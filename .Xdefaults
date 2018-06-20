@@ -1,0 +1,18 @@
+URxvt*color0: #031329
+URxvt*color1: #02284b
+URxvt*color2: #103762
+URxvt*color3: #1c487b
+URxvt*color4: #2e5d91
+URxvt*color5: #3f71ae
+URxvt*color6: #6492c5
+URxvt*color7: #aebfdb
+URxvt*color8: #90a4bd
+URxvt*color9: #8c949f
+URxvt*color10: #b1b3b2
+URxvt*color11: #c9c6c1
+URxvt*color12: #677c97
+URxvt*color13: #5d6b76
+URxvt*color14: #4d5265
+URxvt*color15: #323d51
+
+Xft*dpi: 144
