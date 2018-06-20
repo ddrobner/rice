@@ -17,6 +17,8 @@ rice dotfiles
 
 `feh`
 
+`xorg-xrdb`
+
 `compton`
 
 `ttf-hack`
