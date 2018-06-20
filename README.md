@@ -16,3 +16,9 @@ rice dotfiles
 `oh-my-zsh`
 
 `feh`
+
+`compton`
+
+`ttf-hack`
+
+`ttf-symbola`
